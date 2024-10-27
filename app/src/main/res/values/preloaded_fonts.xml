@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/anton</item>
+        <item>@font/exo_2</item>
+        <item>@font/lobster</item>
+        <item>@font/oswald</item>
+        <item>@font/roboto</item>
+    </array>
+</resources>

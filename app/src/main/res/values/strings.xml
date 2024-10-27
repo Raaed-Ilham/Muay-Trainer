@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">VisionTest</string>
+    <string name="dutch_drills">Dutch drills</string>
+    <string name="ddrillset">1. Double Jab            2. Jab, Cross             3. Double Jab, Cross</string>
+
+    <string-array name="progress_options_array">
+        <item>View progress for today</item>
+        <item>View progress over last week</item>
+        <item>View progress over last month</item>
+    </string-array>
+
+
+</resources>
